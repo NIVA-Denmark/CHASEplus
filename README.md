@@ -1,2 +1,2 @@
 # CHASEplus
-CHASE+ Tool for Hazardous Substance status assessment 
+CHASE+ tool for hazardous substance status assessment 
